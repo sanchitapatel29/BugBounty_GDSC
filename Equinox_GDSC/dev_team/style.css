@@ -68,8 +68,17 @@
   .card:hover {
     background-color: blueviolet;
   }
-  .icons i:hover {
-    color: rgb(255, 255, 255);
+  #twitter:hover {
+    color: rgb(0, 130, 190);
+  }
+  #linkedin:hover {
+    color: rgb(8, 8, 144);
+  }
+  #github:hover {
+    color: grey;
+  }
+  #envelope:hover {
+    color: white;
   }
   @media screen and (min-width: 768px) {
     section {
