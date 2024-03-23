@@ -69,7 +69,7 @@
     background-color: blueviolet;
   }
   .icons i:hover {
-    color: aliceblue;
+    color: rgb(255, 255, 255);
   }
   @media screen and (min-width: 768px) {
     section {
